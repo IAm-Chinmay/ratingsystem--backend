@@ -3,7 +3,7 @@
 ##  Installation
 
 ```bash
-git clone https://github.com/IAm-Chinmay/ratingsystem--frontend.git
+git clone https://github.com/IAm-Chinmay/ratingsystem--backend.git
 cd backend
 npm install
 ```
